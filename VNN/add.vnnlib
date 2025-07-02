@@ -8,5 +8,5 @@
 (assert (>= X_1 0.0))
 (assert (<= X_1 1.0))
 
-(assert (>= Y_0 2.0))
+(assert (<= Y_0 2.0))
 
